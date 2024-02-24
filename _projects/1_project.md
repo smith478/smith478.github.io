@@ -8,18 +8,15 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Image classification is standard application of computer vision. Therefore it is natural to apply
+these techniques to medical imaging. In the context of medicine it is typically not enough to know
+a lesion in present, we would also like to know the location of the lesion. If the labels contain
+locations, this can be used to train the model. In the case where the location is not included in the
+label, there are a few options to infer the location, including gradient based class activation mapping
+grad-CAM.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: Medical Imaging
-    description: Identifying and localizing abnormalities on radiographs
-    img: /assets/img/medical_imaging.png
-    ---
+The idea behind grad-CAM is to use the derivative of the output associated with a specific class in the model with respect to the weights
+in the final convolutional layer.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
