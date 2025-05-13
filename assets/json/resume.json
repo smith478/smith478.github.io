@@ -9,11 +9,19 @@
   },
   "work": [
     {
+      "name": "MOTOR Information Systems",
+      "position": "Full Stack AI Engineer",
+      "url": "https://www.motor.com/",
+      "startDate": "2024-06-01",
+      "endDate": "Now",
+      "summary": "Using LLMs to extract structure out of unstructured text."
+    },
+    {
       "name": "Instinct Science",
       "position": "Lead Data Scientist",
       "url": "https://www.instinct.vet/",
       "startDate": "2019-08-01",
-      "endDate": "Now",
+      "endDate": "2024-06-01",
       "summary": "Building out Analytics and Data Science applications, developing and deploying machine learning models, and setting up cloud infrastructure for reporting."
     },
     {
@@ -21,7 +29,7 @@
       "position": "Senior Data Scientist - Consultant",
       "url": "https://www.rocketmortgage.com/",
       "startDate": "2017-08-01",
-      "endDate": "Now",
+      "endDate": "2024-06-01",
       "summary": "Build and support computer vision, large language, and multimodal models focused on automated processing of financial and appraisal documents."
     },
     {
