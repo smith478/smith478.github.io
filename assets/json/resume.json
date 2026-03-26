@@ -128,14 +128,7 @@
     {
       "name": "Programming",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "Go",
-        "SQL",
-        "Git",
-        "Docker",
-        "AWS"
-      ]
+      "keywords": ["Python", "Go", "SQL", "Git", "Docker", "AWS"]
     }
   ],
   "publications": [
