@@ -9,12 +9,29 @@
   },
   "work": [
     {
+      "name": "Censys",
+      "position": "Staff Data Science Engineer",
+      "url": "https://censys.com/",
+      "startDate": "2025-10-01",
+      "endDate": "Now",
+      "summary": "Building host reputation scoring and automated cybersecurity fingerprint generation using LLMs.",
+      "highlights": [
+        "Built host reputation scoring system in Go that assigns reputation scores to IPs at scale",
+        "Developed automated cybersecurity fingerprint generation pipeline using LLMs and an evolutionary approach"
+      ]
+    },
+    {
       "name": "MOTOR Information Systems",
       "position": "Full Stack AI Engineer",
       "url": "https://www.motor.com/",
       "startDate": "2024-06-01",
-      "endDate": "Now",
-      "summary": "Using LLMs to extract structure out of unstructured text."
+      "endDate": "2025-10-01",
+      "summary": "Using LLMs to extract structure out of unstructured text.",
+      "highlights": [
+        "Used dynamic RAG to extract classification from unstructured text",
+        "Helped build production application in Sagemaker and Kubeflow",
+        "Built agentic system to standardize raw manufacturer text data"
+      ]
     },
     {
       "name": "Instinct Science",
@@ -113,8 +130,9 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Python",
+        "Go",
         "SQL",
-        "git",
+        "Git",
         "Docker",
         "AWS"
       ]
